@@ -2,7 +2,9 @@
 
 The code in this project leverages the **libcs50** library. To execute the code samples locally, you'll first need to install the library. Detailed instructions for this process are provided below.
 
-Keep in mind that you need to have a valid C compiler installed on your system prior to installing the library. For Unix-based systems such as macOS and Linux, the **clang** or **gcc** compiler is typically pre-installed.
+#### Prerequisite
+
+- You need to have a valid C compiler installed on your system prior to installing the library. If you're using a Unix-based system like macOS or Linux, you probably already have the **clang** or **gcc** compiler installed.
 
 ### Installation Process for Linux and Mac
 
